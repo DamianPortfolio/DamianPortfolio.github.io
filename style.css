@@ -24,10 +24,6 @@ hr {
 
 }
 
-.buffer {
-  height: 20rem;
-}
-
 .btn-xl {
   padding: 1rem 2rem;
 }
@@ -55,3 +51,8 @@ hr {
   background-color: #F05F44;
   border-color: #F05F44;
 }
+
+.buffer {
+  height: 20rem;
+}
+
